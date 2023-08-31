@@ -1,0 +1,26 @@
+{
+  "income": {"entries": [
+    {
+      "date": "2023/07/24",
+      "amount": 100,
+      "name": "Wages"
+    },
+    {
+      "date": "2023/07/23",
+      "amount": 50,
+      "name": "Gift"
+    }
+  ]},
+  "expense": {"entries": [
+    {
+      "date": "2023/07/22",
+      "amount": 25,
+      "name": "Food"
+    },
+    {
+      "date": "2023/07/21",
+      "amount": 75,
+      "name": "Bills"
+    }
+  ]}
+}

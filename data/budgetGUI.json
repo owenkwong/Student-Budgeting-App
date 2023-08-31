@@ -1,0 +1,12 @@
+{
+  "income": {"entries": [{
+    "date": "2023/08/08",
+    "amount": 100,
+    "name": "Wages"
+  }]},
+  "expense": {"entries": [{
+    "date": "2003/05/05",
+    "amount": 25,
+    "name": "Bills"
+  }]}
+}
